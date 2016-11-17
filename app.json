@@ -1,0 +1,16 @@
+{
+  "name": "heroku.lodexinc.com",
+  "description": "LODEX INC - HEROKU",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
